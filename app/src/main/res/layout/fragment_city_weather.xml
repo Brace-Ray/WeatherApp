@@ -141,7 +141,7 @@
                     android:layout_height="match_parent"
                     android:background="#2E8B57"/>
                 <TextView
-                    android:id="@+id/frag_index_rays"
+                    android:id="@+id/frag_index_tv_rays"
                     style="@style/indextext"
                     android:text="紫外线指数"
                     android:drawableBottom="@mipmap/icon_light"/>
